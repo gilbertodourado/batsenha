@@ -1,1 +1,1 @@
-# Aplicativo gerador de senhas - AUla da DIO
+# Aplicativo gerador de senhas - Aula da DIO
